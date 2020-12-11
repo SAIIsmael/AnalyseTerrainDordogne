@@ -11,7 +11,7 @@ La vérité terrain a été échantillonnée sur cinq classes et nous disposons 
 - CNN 2D
 - RNN
 - CNN2D mish
-- concaténation MLP/CNN2D
+- MLP+CNN2D
 - CNN 3D
 
 ## Résultats obtenus :
