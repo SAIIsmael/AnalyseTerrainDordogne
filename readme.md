@@ -10,10 +10,13 @@ La vérité terrain a été échantillonnée sur cinq classes et nous disposons 
 - CNN 1D
 - CNN 2D
 - RNN
+- CNN2D mish
+- concaténation MLP/CNN2D
+- CNN 3D
 
 ## Résultats obtenus :
 
-Projet en cours ...
+Nous avons trouver que l'algorithme qui nous donne le meilleur résultat est le CNN2D avec la fonction d'activation mish.
 
 ## Membres ayant participé au projet :
 
