@@ -20,7 +20,7 @@ Nous avons trouver que l'algorithme qui nous donne le meilleur résultat est le 
 
 ## Membres ayant participé au projet :
 
-- [CHERFAOUI Youcef](https://gitlab.com/Evlose) - <youcef.cherfaoui@etu.umontpellier.fr>
-- [MOREL Anthony](https://gitlab.com/zero.un) - <anthony.morel@etu.umontpellier.fr>
-- [LAROUG Nahla](https://gitlab.com/nlaroug) - <nahla.laroug@etu.umontpellier.fr>
-- [SAÏ Ismaël](https://github.com/SAIIsmael) - <ismael.sai@etu.umontpellier.fr>
+- [CHERFAOUI Youcef (21509641)](https://gitlab.com/Evlose) - <youcef.cherfaoui@etu.umontpellier.fr>
+- [MOREL Anthony (21601860)](https://gitlab.com/zero.un) - <anthony.morel@etu.umontpellier.fr>
+- [LAROUG Nahla (21715023)](https://gitlab.com/nlaroug) - <nahla.laroug@etu.umontpellier.fr>
+- [SAÏ Ismaël (20135723)](https://github.com/SAIIsmael) - <ismael.sai@etu.umontpellier.fr>
